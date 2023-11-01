@@ -216,6 +216,7 @@ void hostel :: display(){
     for (int i = 0; i < 60; i++){
         cout << "--";
     }
+    //********8
     cout << endl;
 }
 void hostel :: search(string key){
