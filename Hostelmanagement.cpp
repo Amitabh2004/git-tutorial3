@@ -238,7 +238,11 @@ void hostel :: search(string key){
         else
             cout << "Name not found "<< endl;
 }
+<<<<<<< HEAD
 
+=======
+//Drivers code
+>>>>>>> new-feature
 int main(){
     hostel management;
     int choice, floorcheck;
